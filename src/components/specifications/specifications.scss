@@ -1,0 +1,24 @@
+.specifications {
+    margin-left: 6px;
+    margin-top: 10px;
+    min-width: 565px;
+    border-collapse: collapse;
+}
+
+.specifications__table-row {
+    border-bottom: 1px solid #D7D9DF;
+}
+
+.specifications__row-title {
+    text-align: left;
+    padding-top: 18px;
+    padding-bottom: 9px;
+    color: #48494D;
+    font-weight: 400;
+}
+
+.specifications__row-text {
+    text-align: right;
+    color: #000;
+    font-weight: 400;
+}
